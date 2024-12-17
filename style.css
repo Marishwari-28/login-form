@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: transparent;
+    background-image: url(https://img.freepik.com/free-photo/halloween-wooden-table-with-colorful-leaves_181624-30270.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.login-container {
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: transparent;
+    border: 1px solid #dddddd9f;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(8, 84, 119, 0.678);
+}
+
+.login-container h1 {
+    text-align: center;
+    color: bisque;
+   
+}
+
+.login-container input {
+    width: 95%;
+    height: 40px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.login-container button {
+    width: 100%;
+    height: 40px;
+    background-color: #99c29b;
+    color: wheat;
+    border: none;
+    cursor: pointer;
+}
+
+.login-container a {
+    text-decoration: none;
+    color: #666;
+}
+
+.login-container a:hover {
+    color: #333;
+}
+
+
+
